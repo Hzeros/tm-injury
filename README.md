@@ -12,7 +12,7 @@ This project introduces the data availability of the article "Temperature-relate
 
 #[2] Liu Z, Tong M X, Xiang J, et al. Daily temperature and bacillary dysentery: estimated effects, attributable risks, and future disease burden in 316 Chinese cities[J]. Environmental health perspectives, 2020, 128(5): 057008.
 
-(4)Future populations: The future populations under five SSPs are available from International Institute for Applied Systems Analysis (https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=30).
+(4)Future populations: The future populations under five SSPs are available from International Institute for Applied Systems Analysis (https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=30). It also can be downloaded directly from this project.
 
 (5)Characteristics of each province: Data on province characteristics are available on the government's statistic yearbooks(http://www.stats.gov.cn/tjsj/ndsj/2018/indexch.htm).It also can be downloaded directly from this project.
 
