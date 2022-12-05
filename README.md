@@ -1,4 +1,6 @@
-# This project introduces the data availability of the article "Temperature-related mortality in China from specific injury"，including:
+# Ambient temperature related injury mortality
+
+This project introduces the data availability of the article "Temperature-related mortality in China from specific injury"，including:
 
 (1) Injury mortality data: Due to governance constraints and the identifiable nature of the data, these data are not publicly available.The raw data should be requested through collaboration with the corresponding author's team, subject to the approval of the data management and all authors, which is determined within 12 weeks.
 
